@@ -1,17 +1,10 @@
 
-## About
-
-**goGreen** helps you create commits on your GitHub profile for any date in the past. Whether you want to fill up your contribution graph or even make cool patterns and artwork.
 
 ## Getting Started
 
 Follow these steps to bring your contribution graph to life:
 
-1. **Clone this repository**
-```bash
-git clone https://github.com/fenrir2608/goGreen.git
-cd goGreen
-```
+
 3. **Set up your project**
 Initialize a new Node.js project:
 ```bash
@@ -40,6 +33,3 @@ So, you've got the basics down. What's next?
 - [`simple-git`](https://www.npmjs.com/package/simple-git) - For easy Git commands.
 - [`random`](https://www.npmjs.com/package/random) - To generate random numbers for the commits.
 
-## Credits
-
-Huge thanks to [Akshay Saini](https://github.com/akshaymarch7) for the original video behind this project.
